@@ -42,7 +42,7 @@ Finally, the csv files must be uploaded into a Postgres database
 
 15. Additionally, you can always modify the sql file to add more queries and play around with it for desired results.
 
-![Crowdfunding_DB](Crowdfunding_ETL/SQL_files/CrowdFunding_DB_ERD.png)
+![Crowdfunding_DB](SQL_files/CrowdFunding_DB_ERD.png)
 
 ## Credits
 
